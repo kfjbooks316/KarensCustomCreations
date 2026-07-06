@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffefa"/><stop offset="1" stop-color="#d7edf4"/></linearGradient></defs>
+<rect width="900" height="700" fill="url(#g)"/>
+<circle cx="450" cy="270" r="95" fill="none" stroke="#c09a48" stroke-width="14"/>
+<path d="M370 330c50 58 110 58 160 0" fill="none" stroke="#c09a48" stroke-width="10" stroke-linecap="round"/>
+<text x="450" y="510" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#172532">Product Photo</text>
+<text x="450" y="560" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#526b78">replace image file in /images</text>
+</svg>
